@@ -10,7 +10,7 @@ We will use Google’s Deepmind and Reinforcement Learning Implementation for th
 
 We will discuss the rationale behind using the DQN and will cover the Experience Replay and Exploration-Exploitation dilemma encountered while training the Neural Network is discussed as well. In the last, we will discuss the agent’s training and testing performance and the effect of hyper-parameter in the agent’s performance.
 
-The full code can be found here on this [github](https://github.com/fakemonk1/Reinforcement-Learning-Lunar_Lander) link.
+The full code can be found here on this [github](https://github.com/sainavaneet/Basic-Reinforcement-Learning-Algorithms/) link.
 
 ## What is Reinforcement Learning?
 
